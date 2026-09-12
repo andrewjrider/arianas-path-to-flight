@@ -1,0 +1,36 @@
+{
+  "project": "Ariana's Path to Flight",
+  "assetPolicy": "Use only Andrew's original uploaded photographs for Ariana imagery. Do not substitute AI-generated or stock child imagery.",
+  "photos": [
+    {
+      "file": "IMG_2323.jpeg",
+      "role": "hero",
+      "placement": "Top homepage hero",
+      "description": "Airport-window photograph watching an Alaska Airlines aircraft"
+    },
+    {
+      "file": "IMG_9023.jpeg",
+      "role": "story-primary",
+      "placement": "Her Story section, first image",
+      "description": "Aviation exhibit / cockpit-seat photograph"
+    },
+    {
+      "file": "IMG_2324.jpeg",
+      "role": "story-secondary",
+      "placement": "Her Story section, second image",
+      "description": "Airport-terminal window profile photograph"
+    },
+    {
+      "file": "IMG_7852.jpeg",
+      "role": "dad-family",
+      "placement": "From Dad section",
+      "description": "Family aviation photograph beside vintage U.S. Navy aircraft #31"
+    },
+    {
+      "file": "IMG_9434.jpeg",
+      "role": "closing",
+      "placement": "Final Day One / Right Here section",
+      "description": "Airport-ramp photograph beside Horizon/Alaska aircraft"
+    }
+  ]
+}
