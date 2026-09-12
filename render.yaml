@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: arianas-path-to-flight
+    runtime: static
+    buildCommand: echo "Static site ready"
+    staticPublishPath: .
